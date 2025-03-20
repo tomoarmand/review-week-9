@@ -50,7 +50,7 @@ pizza[0] = "t"; Reassigns the first element in the pizza array by targeting the 
 ## Question 6
 
 function check() {
-    if (array.length == array2.length) {
+    if (array1.length == array2.length) {
         console.log(true);
     }else {
         console.log(false);
